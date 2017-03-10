@@ -2,7 +2,8 @@
 
 #安装
 
-..npm instal ..
+npm instal
 
 #运行
-。。wepack
+
+wepack
